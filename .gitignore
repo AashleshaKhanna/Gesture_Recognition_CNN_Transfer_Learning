@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/*
+!data/.gitkeep
+checkpoints/*.pt
+results/*.csv
+results/*.png
+results/*.pt
+.ipynb_checkpoints/
+.DS_Store
